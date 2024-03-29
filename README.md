@@ -11,5 +11,6 @@ The consistent identification of the actual winning arm as one in our dataset su
 
 Overall, our study offers promising insights into using bandit algorithms for sports analytics, particularly in MMA fight outcome predictions. It opens avenues for further research into more nuanced and robust models to refine predictive accuracy. 
 
-# Source Of The Dataset
+# Source Of The Dataset + Report findings
 The dataset we used for our project was obtained from Kaggle at [this url](https://www.kaggle.com/datasets/danmcinerney/mma-differentials-and-elo).
+The findings we documented for our project can be found at [this url](https://docs.google.com/document/d/1-Sz8g5w8EDe0dXKdx5nZrt8o8mLc0rGbvPoW41eEXvA/edit?usp=sharing).
